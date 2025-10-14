@@ -35,11 +35,16 @@ Create a branch
 Submit a pull request (PR)
 
 ### Read our CONTRIBUTING.md
- for detailed steps.
+
 
 ### Officer Team (2025)
 
-
+Mukesh Ravichandran
+Anosha Rehan 
+Tejaswini Damodara Kannan 
+Prajeena Maharjan 
+Abner Jr Lusung 
+Delcio Goma
 
 ### Open to Collaboration
 
