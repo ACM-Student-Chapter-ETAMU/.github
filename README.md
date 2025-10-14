@@ -5,7 +5,7 @@ We’re a community of computer science enthusiasts passionate about coding, col
 
 ### Our Mission
 
-To empower students to explore, build, and share technology — together.
+To empower students to explore, build, and share technology, together.
 We organize workshops, projects, and events that connect theory to real-world practice.
 
 ### What You’ll Find Here
@@ -53,4 +53,4 @@ All materials are open under the MIT License
 
 ### Maintained By
 
-ACM @ East Texas A&M University — Building a culture of learning through code.
+ACM @ East Texas A&M University, Building a culture of learning through code.
