@@ -66,9 +66,8 @@ If you’re a new contributor, start with a “Good First Issue” in the projec
 
 ### License
 
-All materials are open under the MIT License
-.
+All materials are open under the MIT License.
 
 ### Maintained By
 
-ACM @ East Texas A&M University, Building a culture of learning through code.
+ACM @ East Texas A&M University, Building a culture of learning through sharing, collaboration, and collective growth.
