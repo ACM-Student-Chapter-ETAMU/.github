@@ -25,7 +25,7 @@ We organize workshops, projects, and events that connect theory to real-world pr
 
 website/ – Our official ACM website
 
-projects/ – Open-source and learning projects built by members
+projects/ – Open-source and learning projects built by all the students
 
 resources/ – Study guides, templates, tutorials, and notes
 
@@ -37,7 +37,7 @@ Join our LinkedIn
 
 Follow us on ManSync
 
-Attend our meetings and hack nights (see events/ for the calendar)
+Attend our Events (see events/ for the calendar)
 
 ### To contribute:
 
